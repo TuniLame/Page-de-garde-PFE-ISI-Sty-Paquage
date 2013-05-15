@@ -1,0 +1,16 @@
+\documentclass[a4paper,10pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{pagedegardeisi}
+% Title Page
+\title{}
+\author{}
+\option{elli heya}
+\prenomnom{Moez MAAMER}
+\sujet{Création d'un générateur de pages de garde}
+\organismedaccueil{ISI}{logoisi.png}
+\encadrants{Someone}{M\up{me}. Olfa LIMAM}
+\anneeuniversitaire{2012-2013}
+
+\begin{document}
+\makepagedegarde
+\end{document}          
