@@ -18,14 +18,14 @@ Utilisation
  - `\option{}`: pour l'option suivis
  - `\prenomnom{}`: pour le prénom suivis du nom, de forme `prenom NOM`
  - `\sujet{}`: pour définir le sujet de votre projet.
- - `\organismedaccueil{}{}: La première variable est le nom de l'organisme d'accueil et la deuxième est un logo/une image de l'organisme.
- - `\encadrants{}{}: La première variable est le nom de l'encadrant de l'entreprise et la deuxième est le nom de l'encadrant de l'ISI.
+ - `\organismedaccueil{}{}`: La première variable est le nom de l'organisme d'accueil et la deuxième est un logo/une image de l'organisme.
+ - `\encadrants{}{}`: La première variable est le nom de l'encadrant de l'entreprise et la deuxième est le nom de l'encadrant de l'ISI.
  - `\anneeuniversitaire{}`: L'année universitaire, de forme `AAAA-AAAA`.
 2. Ensuite, ajouter `\makepagedegarde` juste après `\begin{document}`.
 
 Exemple
 ----
-`\documentclass[a4paper,10pt]{report}
+```\documentclass[a4paper,10pt]{report}
 \usepackage[utf8]{inputenc}
 \usepackage{pagedegardeisi}
 % Title Page
@@ -49,5 +49,5 @@ Exemple
 
 \begin{document}
 \makepagedegarde
-\end{document}`
+\end{document}```
 
