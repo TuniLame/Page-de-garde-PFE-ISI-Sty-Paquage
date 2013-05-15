@@ -51,5 +51,5 @@ Exemple
 
 \begin{document}
 \makepagedegarde
-\end{document}```
+\end{document}
 
