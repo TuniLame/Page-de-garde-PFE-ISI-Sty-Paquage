@@ -4,6 +4,7 @@ Sty Tex pacquage pour la page de garde du rapport de PFE de l'ISI.
 Description
 ----
 Un pacquage Tex pour générer la page de garde pour les rapport de PFE de l'ISI, Institut Supérieur d'Informatique (Ariana, TUNISIE). Testé avec LaTeX et PDFLaTeX.
+
 Un grand merci pour M. Sabri BAHRINI pour l'adaptation de la mise en page original (.doc) en Tex.
 
 Installation
