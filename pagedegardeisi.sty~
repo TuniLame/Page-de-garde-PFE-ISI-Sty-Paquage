@@ -1,6 +1,10 @@
 %-------------------------------------------------------------------------------
 %  "pagedegardeisi" est un paquage qui permet de générer une page de garde tel 
 %  qu'elle est défini par l'ISI (Institut Supérieur d'Informatique, Ariana, TUNISIE).
+%  Pour plus d'informations, consulter le fichier README.
+%
+%  La mise en page a été adapté en Tex par M. Sabri BAHRINI. Un grand merci à lui 
+%  pour le partage
 %-------------------------------------------------------------------------------
 
 %-------------------------------------------------------------------------------
