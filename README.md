@@ -26,7 +26,8 @@ Utilisation
 
 Exemple
 ----
-```\documentclass[a4paper,10pt]{report}
+```
+\documentclass[a4paper,10pt]{report}
 \usepackage[utf8]{inputenc}
 \usepackage{pagedegardeisi}
 % Title Page
@@ -51,4 +52,3 @@ Exemple
 \begin{document}
 \makepagedegarde
 \end{document}```
-
