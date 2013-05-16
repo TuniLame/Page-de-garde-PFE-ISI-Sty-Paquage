@@ -43,7 +43,7 @@ Exemple
 % Le nom ainsi que la photo de l'organisme d'accueil:
 \organismedaccueil{ISI}{logoisi.png}
 
-% Le nom de chacun de l'encadrant de l'entreprise et celui de l'ISI:
+% Le nom de chaque encadrant: l'encadrant de l'entreprise puis celui de l'ISI:
 \encadrants{Someone}{Someone two}
 
 % L'année universitaire, de forme AAAA-AAAA:
